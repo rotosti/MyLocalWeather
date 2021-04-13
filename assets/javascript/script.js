@@ -1,4 +1,4 @@
-var apiKey = 'e4d72f06208b37409b1c4c29f0f46ed8';
+var apiKey = '';
 var searchCity = 'Chicago';
 
 var searchBtn = $('#searchButton');
